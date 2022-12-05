@@ -4,7 +4,7 @@ All projects that obtain a KYC for NovoPad via Novoos will be included here.
 
 # Requesting KYC
 
-To request KYC and a badge for your project on NovoPad, please contact Novoos: **[KYC Request]https://t.me/novoosecosystem)**
+To request KYC and a badge for your project on NovoPad, please contact Novoos: **[KYC Request](https://t.me/novoosecosystem)**
 
 # Certificate
 
