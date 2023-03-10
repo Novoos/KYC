@@ -20,12 +20,12 @@ You will never be contacted first by the $NOVO KYC representative first unless y
 
 To KYC and badge for your project on a NovoPad listing is automated once the Web3 AI KYC verification is completed succesfully, please contact Novoos for any other related queries: **[KYC Request](https://t.me/novoosecosystem)**
 
-# Certificate
-
-Every project will be presented with a KYC certificate as per below with the amended details as required.
-
-![Alt text](https://novoos.net/wp-content/uploads/2022/12/Novoos-KYC-certificate.png "NovoPad KYC certificate")
-
 # Web3 AI KYC
 
 For full information about several aspects of the KYC process and other relevant aspects, visit the **[whitepaper](https://docs.novoos.net)** website.
+
+# Certificate
+
+Every individual or project team, dev etc. will be presented with a KYC certificate as per below with the amended details as required.
+
+![Alt text](https://novoos.net/wp-content/uploads/2022/12/Novoos-KYC-certificate.png "NovoPad KYC certificate")
